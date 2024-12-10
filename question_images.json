@@ -1,0 +1,160 @@
+[
+  {
+    "questionNo": "",
+    "question": "Anny is working on a custom tile design for a café floor. Can you help her to know which shape comes next in the growing pattern.?<br><img width='95%' src='./images/11.png'>",
+    "optionsImages": [
+      "./images/21.jpg",
+      "./images/22.jpg"
+    ],
+    "correct": 0,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "questionNo": "",
+    "question": "As Anny continues with the café project, she notices a missing shape in the growing pattern. Which shape comes next to complete it?<br><img width='95%' src='./images/13.png'>",
+    
+    "optionsImages": [
+      "./images/23.jpg",
+      "./images/24.jpg"
+    ],
+    "correct":0,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "questionNo": "",
+    "question": "Can you figure out which shape comes next in the growing pattern?<br><img width='95%' src='./images/14.png'>",
+    
+    "optionsImages": [
+      "./images/25.jpg",
+      "./images/26.jpg"
+    ],
+    "correct": 1,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "questionNo": "",
+    "question": "Anny sees a gap in the pattern. Which shape should come next to finish it?<br><img width='95%' src='./images/15.png'>",
+    "optionsImages": [
+      "./images/27.jpg",
+      "./images/28.jpg"
+    ],
+    "correct": 0,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "questionNo": "",
+    "question": "she needs help to determine which shape comes next in the growing pattern?<br><img width='95%' src='./images/12.png'>",
+    
+    "optionsImages": [
+      "./images/29.jpg",
+      "./images/30.jpg"
+    ],
+    "correct":0,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "questionNo": "",
+    "question": " Which glowing pattern should come next to complete the sequence?<br><img width='95%' src='./images/16.png'>",
+    "optionsImages": [
+      "./images/31.jpg",
+      "./images/32.jpg"
+    ],
+    "correct": 0,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "questionNo": "",
+    "question": "Anny realises a pattern is incomplete for the café floor. Can you identify which glowing pattern comes next?<br><img width='55%' src='./images/1.png'>",
+    
+    "optionsImages": [
+      "./images/33.jpg",
+      "./images/34.jpg"
+    ],
+    "correct":1,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "questionNo": "",
+    "question": "Which glowing pattern should come next to keep the sequence going?<br><img width='55%' src='./images/2.png'>",
+    
+    "optionsImages": [
+      "./images/35.jpg",
+      "./images/36.jpg"
+    ],
+    "correct": 0,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "questionNo": "",
+    "question": "Anny wants her glowing patterns to look perfect. Can you help her figure out which glowing pattern comes<br><img width='55%' src='./images/3.png'>",
+    "optionsImages": [
+      "./images/37.jpg",
+      "./images/38.jpg"
+    ],
+    "correct": 0,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "questionNo": "",
+    "question": "The café floor design is almost done, but Anny needs your help to determine which glowing pattern should come next.<br><img width='55%' src='./images/4.png'>",
+    
+    "optionsImages": [
+      "./images/39.jpg",
+      "./images/40.jpg"
+    ],
+    "correct":0,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+      
+  ]
+  
